@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732034301578",
+    "project_id": "shramik-app-bb598",
+    "storage_bucket": "shramik-app-bb598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732034301578:android:39a399d37c1f7e182e3773",
+        "android_client_info": {
+          "package_name": "com.thenlaynorboo.shramikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732034301578-fu2rpph6cobtc60939v16d4604bnn51h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OnrkiiycwhLdWSnOYF2hlBO8-_tMjpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732034301578-fu2rpph6cobtc60939v16d4604bnn51h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
